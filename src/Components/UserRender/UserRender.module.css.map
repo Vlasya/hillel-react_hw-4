@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAQ;EACN,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EAIvB,iBAAQ;IACN,MAAM,EAAE,gBAAgB;IACxB,UAAU,EAAE,GAAG;IACf,UAAU,EAAE,MAAM;EAGpB,cAAK;IACH,UAAU,EAAE,GAAG;IACf,MAAM,EAAE,gBAAgB;IACxB,UAAU,EAAE,MAAM",
+"sources": ["UserRender.module.sass"],
+"names": [],
+"file": "UserRender.module.css"
+}

@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  justify-content: center; }
+  .wrapper .surname {
+    border: 1px dotted black;
+    flex-basis: 45%;
+    text-align: center; }
+  .wrapper .name {
+    flex-basis: 45%;
+    border: 1px dotted black;
+    text-align: center; }
+
+/*# sourceMappingURL=UserRender.module.css.map */
