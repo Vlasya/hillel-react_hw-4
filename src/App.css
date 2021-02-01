@@ -1,21 +1,8 @@
+
 .App{
     width: 80%;
-    height: 60vh;
-    background-color: aqua;
-    margin: 60px auto;
+    margin: 50px auto;
+    background-color: blanchedalmond;
     display: flex;
-}
-
-.users-data{
-    flex-basis: 50%;
-    background-color: chartreuse;
-}
-
-.add-user{
-    flex-basis: 50%;
-    background-color: antiquewhite;
-}
-.user-title{
-    display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }

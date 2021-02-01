@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 10px; }
+  .wrapper .form {
+    display: flex;
+    margin-bottom: 10px; }
+    .wrapper .form input {
+      margin-right: 5px; }
+  .wrapper .buttons {
+    display: flex;
+    align-self: flex-start; }
+    .wrapper .buttons button {
+      margin-right: 5px;
+      background-color: grey;
+      border-radius: 3px;
+      color: white;
+      padding: 3px; }
+
+/*# sourceMappingURL=RemoveUser.module.css.map */

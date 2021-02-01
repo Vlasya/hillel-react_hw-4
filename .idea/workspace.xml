@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720386b-71fe-46a0-8237-ed84f3a00149" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/UserRender/UserRender.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/UserRender/UserRender.module.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ContactBook/AddUserForm/AddUserForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ContactBook/ContactBook.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ContactBook/ContactBook.module.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ContactBook/FetchRequest/FetchRequest.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/RemoveUser/RemoveUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/RemoveUser/RemoveUser.module.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AddUserForm/.sass-cache/2d231d35db2cfbcc2a5c1fee4945437faac1e586/AddUserForm.module.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/AddUserForm/.sass-cache/2d231d35db2cfbcc2a5c1fee4945437faac1e586/AddUserForm.module.sassc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AddUserForm/AddUserForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AddUserForm/AddUserForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/AddUserForm/AddUserForm.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AddUserForm/AddUserForm.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/AddUserForm/AddUserForm.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AddUserForm/AddUserForm.module.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/AddUserForm/AddUserForm.module.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UserRender/.sass-cache/5c1fe6f958ae70206a7156c997db1e0532fb1eb5/UserRender.module.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/UserRender/.sass-cache/5c1fe6f958ae70206a7156c997db1e0532fb1eb5/UserRender.module.sassc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UserRender/UserRender.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/UserRender/UserRender.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UserRender/UserRender.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/UserRender/UserRender.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UserRender/UserRender.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/UserRender/UserRender.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UserRender/UserRender.module.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactBook/UserRender/UserRender.module.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +48,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../webStorm/hille_hw_react_2" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git_Hub\hillel_react\hillel_hw_4\src\Components\ContactBook" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,7 +70,10 @@
       <option name="presentableId" value="Default" />
       <updated>1611695647486</updated>
       <workItem from="1611695648893" duration="769000" />
-      <workItem from="1611872967721" duration="4432000" />
+      <workItem from="1611872967721" duration="32792000" />
+      <workItem from="1612101329085" duration="1114000" />
+      <workItem from="1612118268626" duration="636000" />
+      <workItem from="1612167638863" duration="16633000" />
     </task>
     <servers />
   </component>
@@ -70,5 +90,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

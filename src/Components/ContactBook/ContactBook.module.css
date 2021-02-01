@@ -1,0 +1,22 @@
+.wrapper {
+  width: 80%;
+  height: 60vh;
+  margin: 60px auto;
+  display: flex; }
+  .wrapper .usersData {
+    flex-basis: 50%; }
+    .wrapper .usersData button {
+      background-color: grey;
+      border-radius: 3px;
+      color: white;
+      padding: 3px 13px;
+      margin-top: 10px; }
+    .wrapper .usersData .userTitle {
+      display: flex;
+      justify-content: space-around;
+      text-transform: uppercase; }
+  .wrapper .addUser {
+    flex-basis: 50%;
+    margin: 50px; }
+
+/*# sourceMappingURL=ContactBook.module.css.map */

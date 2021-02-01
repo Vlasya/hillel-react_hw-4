@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  flex-direction: column; }
+  .wrapper .inputs {
+    margin-bottom: 10px; }
+    .wrapper .inputs input {
+      margin-right: 5px; }
+  .wrapper .button button {
+    background-color: grey;
+    border-radius: 3px;
+    color: white;
+    padding: 3px 13px; }
+
+/*# sourceMappingURL=AddUserForm.module.css.map */
